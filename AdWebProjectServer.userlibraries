@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.35-bin">
+    <archive path="C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.35-bin.jar" />
+  </library>
+  <library name="Spring MVC-4.1.6.RELEASE">
+    <archive path="T:/MySpringMVCDemo/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-websocket-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-web-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-webmvc-4.1.6.RELEASE.jar" />
+  </library>
+  <library name="Spring-4.1.6.RELEASE">
+    <archive path="T:/MySpringMVCDemo/lib/spring-instrument-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-instrument-tomcat-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-aspects-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-expression-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-context-support-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-messaging-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-jms-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-aop-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-oxm-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/aopalliance-1.0.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-jdbc-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-tx-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-orm-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-beans-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-test-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-core-4.1.6.RELEASE.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/spring-context-4.1.6.RELEASE.jar" />
+  </library>
+  <library name="struts2">
+    <archive path="T:/MySpringMVCDemo/lib/struts2-core-2.3.20.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/struts2-json-plugin-2.3.20.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/struts2-spring-plugin-2.3.20.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/xwork-core-2.3.20.jar" />
+  </library>
+  <library name="json-lib-2.4-jdk15">
+    <archive path="T:/MySpringMVCDemo/lib/ezmorph-1.0.6.jar" />
+  </library>
+  <library name="jackson-2.5.4">
+    <archive path="T:/MySpringMVCDemo/lib/jackson-annotations-2.5.4.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/jackson-core-2.5.4.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/jackson-databind-2.5.4.jar" />
+  </library>
+  <library name="commons-lib">
+    <archive path="T:/MySpringMVCDemo/lib/commons-beanutils-1.9.2.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/commons-collections4-4.0.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/commons-lang3-3.4.jar" />
+    <archive path="T:/MySpringMVCDemo/lib/commons-logging-1.2.jar" />
+  </library>
+  <library name="Java Development Kit 8" />
+</eclipse-userlibraries>
+

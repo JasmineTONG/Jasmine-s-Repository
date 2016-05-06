@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/MySpringMVCDemo"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.59" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 7.0.59" value="application_server_libraries"/>
+		<level name="jackson-2.5.4" value="project"/>
+		<level name="Spring MVC-4.1.6.RELEASE" value="project"/>
+		<level name="Spring-4.1.6.RELEASE" value="project"/>
+		<level name="json-lib-2.4-jdk15" value="project"/>
+		<level name="commons-lib" value="project"/>
+		<level name="struts2" value="project"/>
+	</levels>
+</component>
